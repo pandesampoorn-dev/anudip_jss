@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tourist Places in Uttar Pradesh</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to Uttar Pradesh Tourism</h1>
+    <p>Explore the cultural and historical beauty of UP</p>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#tajmahal">Taj Mahal</a></li>
+      <li><a href="#varanasi">Varanasi</a></li>
+      <li><a href="#fatehpur">Fatehpur Sikri</a></li>
+      <li><a href="#mathura">Mathura</a></li>
+      <li><a href="#ayodhya">Ayodhya</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <section id="tajmahal" class="place">
+      <h2>Taj Mahal - Agra</h2>
+      <img src="images/tajmahal.jpg" alt="Taj Mahal" />
+      <p>The Taj Mahal is one of the Seven Wonders of the World, a symbol of love built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal.</p>
+    </section>
+
+    <section id="varanasi" class="place">
+      <h2>Varanasi</h2>
+      <img src="images/varanasi.jpg" alt="Varanasi" />
+      <p>Known as the spiritual capital of India, Varanasi is famous for its ghats, temples, and the Ganga Aarti.</p>
+    </section>
+
+    <section id="fatehpur" class="place">
+      <h2>Fatehpur Sikri</h2>
+      <img src="images/fatehpur.jpg" alt="Fatehpur Sikri" />
+      <p>A UNESCO World Heritage Site, Fatehpur Sikri was the capital of the Mughal Empire during the reign of Akbar.</p>
+    </section>
+
+    <section id="mathura" class="place">
+      <h2>Mathura</h2>
+      <img src="images/mathura.jpg" alt="Mathura" />
+      <p>Mathura is the birthplace of Lord Krishna and is known for its religious significance and vibrant festivals like Janmashtami and Holi.</p>
+    </section>
+
+    <section id="ayodhya" class="place">
+      <h2>Ayodhya</h2>
+      <img src="images/ayodhya.jpg" alt="Ayodhya" />
+      <p>Ayodhya is a sacred city for Hindus as the birthplace of Lord Rama and home to the grand Ram Mandir.</p>
+    </section>
+  </main>
+
+</body>
+</html>
